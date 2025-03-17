@@ -2,7 +2,7 @@ Students
 - Grace Kabwe
 - Lupandu Masumba
 
-In this lab I:
+In this lab 1:
 - Installed VS Code, Git, and Node.js 
 - Created an HTML file and added a heading, paragraph and image
 - Set up Git
